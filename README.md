@@ -30,6 +30,6 @@ The sample output of the implemented detector is shown in the *test* folder
 
 ## sources
 I consulted with the following sources (20% was adopted):
-https://github.com/pjreddie/darknet
-https://github.com/thtrieu/darkflow
-https://github.com/allanzelener/yad2k
+- https://github.com/pjreddie/darknet
+- https://github.com/thtrieu/darkflow
+- https://github.com/allanzelener/yad2k
